@@ -719,7 +719,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: white!important;
 }
 
 h4 {
@@ -767,7 +767,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #8F340A;
 }
 
 .tc-white {
@@ -775,7 +775,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #8F340A;
     color: #FFFFFF!important;
 }
 
@@ -818,7 +818,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
@@ -869,10 +869,10 @@ h4 {
         overflow-x: hidden;
         position: relative;
     }
-    /* .bloc {
+    .bloc {
         padding-left: constant(safe-area-inset-left);
         padding-right: constant(safe-area-inset-right);
-    } */
+    }
     .bloc-group,
     .bloc-group .bloc {
         display: block;
@@ -1045,5 +1045,5 @@ p{
     font-size: 1em;
 }
 .color{
-    color:black;
+    color:white;
 }
