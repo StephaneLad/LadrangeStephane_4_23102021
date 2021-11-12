@@ -719,7 +719,7 @@ h3 {
 }
 
 h1 {
-    color: white!important;
+    color: white ;
 }
 
 h4 {
@@ -771,7 +771,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #F3976C;
 }
 
 .btn-atomic-tangerine {
@@ -1046,4 +1046,10 @@ p{
 }
 .color{
     color:white;
+}
+.col-sm-4 a{
+    color: white;
+}
+.tc-grey{
+    color: white;
 }
